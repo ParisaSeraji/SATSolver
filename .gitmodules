@@ -1,0 +1,3 @@
+[submodule "Step2/minisat"]
+	path = Step2/minisat
+	url = https://github.com/agurfinkel/minisat.git
